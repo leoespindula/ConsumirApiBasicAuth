@@ -1,0 +1,62 @@
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\lucio.souza\Documents\TesteWebAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\leonardo.espindula\Downloads\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Meus Projetos\C#\ConsumindoAPI\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Meus Projetos\C#\ConsumindoAPI\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Meus Projetos\C#\ConsumindoAPI\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Meus Projetos\C#\ConsumindoAPI\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Meus Projetos\C#\ConsumindoAPI\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Meus Projetos\C#\ConsumindoAPI\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Meus Projetos\C#\ConsumindoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Meus Projetos\C#\ConsumindoAPI\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\el\Curso\ConsumindoAPI\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

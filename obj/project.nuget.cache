@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k76CPflOmNiuFalq78AI01fBI46fDHHYsliQK+7Lx8VV1D+8eLsrvRgeO6Z4PrnxHAX8ncond6l3HQ4zoXF1ew==",
+  "success": true,
+  "projectFilePath": "D:\\Curso\\ConsumirApiBasicAuth\\ConsumirApiBasicAuth\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
