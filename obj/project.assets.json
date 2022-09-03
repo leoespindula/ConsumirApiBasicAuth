@@ -48,26 +48,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\": {},
-    "C:\\el\\componentes\\Components\\Offline Packages": {},
+    "C:\\Users\\leona\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso\\ConsumirApiBasicAuth\\ConsumirApiBasicAuth\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Meus Projetos\\C#\\ConsumirApiBasicAuth\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Curso\\ConsumirApiBasicAuth\\ConsumirApiBasicAuth\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\leonardo.espindula\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso\\ConsumirApiBasicAuth\\ConsumirApiBasicAuth\\obj\\",
+      "projectPath": "C:\\Meus Projetos\\C#\\ConsumirApiBasicAuth\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+      "outputPath": "C:\\Meus Projetos\\C#\\ConsumirApiBasicAuth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\el\\componentes\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\leonardo.espindula\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -76,10 +73,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Componentes\\dotNet\\DevExpress 21.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
-        "D:\\componentes\\dotNet\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/itZblV457gajUxww3eu2DdnyNDZhfFzOzP77cTAWVUYmWYwLRY/api": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -117,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

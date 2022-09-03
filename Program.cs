@@ -96,17 +96,22 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             RestClient rClient = new RestClient();
-            rClient.endPoint = "url";
+            //Inserir o URL da API
+            rClient.endPoint = "url";                                           
             rClient.authTech = autheticationTechnique.RollYourOwn;
             rClient.authType = authenticationType.Basic;
+            //Inserir Username
             rClient.userName = "username";
-            rClient.userPassword = "password";
+            //Inserir Password
+            rClient.userPassword = "password";                                  
 
             string strResponse = string.Empty;
 
             strResponse = rClient.makeRequest();
 
             dynamic json = JsonConvert.DeserializeObject(strResponse);
+
+            //Definir quais classes deseja usar
 
             foreach(var item in json.classe.classe)
             {
